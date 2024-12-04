@@ -6,4 +6,3 @@ pickle
 joblib
 seaborn
 matplotlib
-flask
